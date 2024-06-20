@@ -1,0 +1,6 @@
+{
+  "required": {
+    "guzzlehttp/guzzle": "~5.3|~6.0",
+    "guzzlehttp/psr7": "1.4.2"
+  }
+}
